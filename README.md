@@ -1,9 +1,6 @@
 # sveltekit-devalue-not-serializable-repro
 Reproduction for https://github.com/sveltejs/kit/issues/8523
 
-# sveltekit-devalue-not-serializable-repro
-Reproduction for https://github.com/sveltejs/kit/issues/8523
-
 Steps to reproduce:
 
 Clone repo
